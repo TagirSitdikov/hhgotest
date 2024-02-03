@@ -1,2 +1,3 @@
 # hhgotest
 improve golang code
+
