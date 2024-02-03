@@ -1,0 +1,2 @@
+# hhgotest
+improve golang code
